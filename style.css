@@ -1,8 +1,7 @@
 body{
     text-align: center;
     text-decoration: none;
-    /* list-style: none; */
-    background-color: cornsilk;
+    background-color: rgb(212, 203, 170);
 }
 h2{
     font-size: 50px;
